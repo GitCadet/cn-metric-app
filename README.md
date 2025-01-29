@@ -1,6 +1,6 @@
 # Cloud-Native Application Using Python
 
-In this project, I built a cloud-native system monitoring application by containerising the app with Docker and set up an ECR registry using the AWS SDK.
+In this project, I developed a cloud-native system monitoring application and containerised it with Docker. Then, I used the AWS SDK to create an ECR repository to push the image to.
 ## Overview
 
 In this project I:
