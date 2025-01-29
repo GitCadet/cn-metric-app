@@ -11,7 +11,7 @@ In this project I:
 
 ![image_alt](https://github.com/GitCadet/cn-metric-app/blob/main/ss-system-monitoring-app.png?raw=true)
 
-## Steps
+## Steps:
 
 ### 1. Build a Flask Application
 
@@ -33,14 +33,14 @@ Once the Docker image was built, I pushed it to the ECR registry using Docker co
 
 ![image_alt](https://github.com/GitCadet/cn-metric-app/blob/main/pushed-image.png?raw=true)
 
-## Technologies Used
+## Technologies Used:
 
 - **Flask** – A lightweight web framework for Python, used to build the application.
 - **Docker** – A platform for containerizing the application to ensure consistency across different environments.
 - **AWS ECR** – Amazon Elastic Container Registry, used to store and manage Docker images.
 - **Boto3** – The AWS SDK for Python, which I used to interact with AWS services like ECR.
 
-## Skills Demonstrated
+## Skills Demonstrated:
 
 - **Containerisation** – Using Docker to create and manage containers for consistent, portable applications.
 - **Infrastructure as Code (IaC)** – Utilizing Boto3 to automate the setup and management of AWS resources (ECR in this case)
