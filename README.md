@@ -36,9 +36,9 @@ Once the Docker image was built, I pushed it to the ECR registry using Docker co
 ## Technologies Used:
 
 - **Flask** – A lightweight web framework for Python, used to build the application.
-- **Docker** – A platform for containerizing the application to ensure consistency across different environments.
+- **Docker** – A platform for containerising the application to ensure consistency across different environments.
 - **AWS ECR** – Amazon Elastic Container Registry, used to store and manage Docker images.
-- **Boto3** – The AWS SDK for Python, which I used to interact with AWS services like ECR.
+- **Boto3** – The AWS SDK for Python, which I used to interact with AWS ECR.
 
 ## Skills Demonstrated:
 
