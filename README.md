@@ -19,7 +19,7 @@ First, I created a Flask application in Python.
 
 ### 2. Containerising the Application
 
-Next, I containerised the Flask application by creating a "`Dockerfile`". This file defines the environment for the Flask app, installing the necessary dependencies and exposing the required ports. Once the `Dockerfile` was set up, I built the Docker image.
+Next, I containerised the Flask application by creating a `Dockerfile`. This file defines the environment for the Flask app, installing the necessary dependencies and exposing the required ports. Once the `Dockerfile` was set up, I built the Docker image.
 
 ### 3. Setting Up an ECR Registry on AWS
 
