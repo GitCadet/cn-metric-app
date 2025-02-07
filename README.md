@@ -4,10 +4,10 @@ In this project, I developed a cloud-native system monitoring application and co
 ## Overview
 
 In this project I:
-- Creating a Python application using Flask.
-- Containerising the application with Docker.
-- Using AWS Boto3 to set up an ECR registry on AWS.
-- Pushing the Docker image to the ECR registry.
+- Created a Python application using Flask.
+- Containerised the application with Docker.
+- Used AWS Boto3 to set up an ECR registry on AWS.
+- Pushed the Docker image to the ECR registry.
 
 ![image_alt](https://github.com/GitCadet/cn-metric-app/blob/main/ss-system-monitoring-app.png?raw=true)
 
